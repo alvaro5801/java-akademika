@@ -5,6 +5,8 @@ A **Akademika** é uma plataforma inovadora pensada para revolucionar a forma co
 
 A plataforma se divide em dois pilares principais: Organização e Estudo Inteligente.
 
+[Link do figma](https://www.figma.com/design/9l32q1j7xWh2Wxy2VroqY5/Akademika---POO?node-id=0-1&t=aKQKv89rSYg0UO6p-1)
+
 ### Organização Acadêmica
 * **Dashboard Intuitivo:** Tenha uma visão geral de suas tarefas da semana, próximos prazos e desempenho geral.
 * **Gerenciador de Disciplinas:** Adicione suas matérias, informações dos professores, e plano de ensino.
