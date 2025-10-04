@@ -6,3 +6,4 @@ import javax.validation.constraints.NotNull;
 
 public record LoginRequestDTO(@NotNull @Email String email, @NotNull String password) {
 }
+
