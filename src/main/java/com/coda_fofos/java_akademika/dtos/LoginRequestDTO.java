@@ -1,4 +1,4 @@
-package com.coda_fofos.java_akademika.DTOs;
+package com.coda_fofos.java_akademika.dtos;
 
 import jakarta.validation.constraints.Email;
 
